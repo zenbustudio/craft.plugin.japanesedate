@@ -1,6 +1,6 @@
 {
   "name": "zenbustudio/craft-japanese-date",
-  "description": "Convert Gregorian Date to Japanese format date",
+  "description": "Converts a date string or date object to Japanese format, with the ability to calculate and display the Modern Japan Era name (Reiwa/令和, Heisei/平成, Showa/昭和, Taisho/大正, Meiji/明治)",
   "version": "1.0.0",
   "type": "craft-plugin",
   "keywords": ["japanese", "japan", "meiji", "taisho", "showa", "heisei", "reiwa"],
