@@ -13,9 +13,9 @@
   ],
   "support": {
     "email": "support@zenbustudio.com",
-    "issues": "https://github.com/zenbustudio/craft.japanese-date/issues?state=open",
-    "source": "https://github.com/zenbustudio/craft.japanese-date",
-    "docs": "https://github.com/zenbustudio/craft.japanese-date/blob/master/README.md"
+    "issues": "https://github.com/zenbustudio/craft.plugin.japanesedate/issues?state=open",
+    "source": "https://github.com/zenbustudio/craft.plugin.japanesedate",
+    "docs": "https://github.com/zenbustudio/craft.plugin.japanesedate/blob/master/README.md"
   },
   "require": {
     "craftcms/cms": "^3.1.0"
